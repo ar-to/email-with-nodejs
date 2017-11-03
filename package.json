@@ -1,0 +1,27 @@
+{
+  "name": "email-with-nodejs",
+  "version": "1.0.0",
+  "description": "repo to test sending emails via nodejs",
+  "main": "nodemailerTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-to/email-with-nodejs.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "nodejs"
+  ],
+  "author": "ar-to",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar-to/email-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/ar-to/email-with-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "nodemailer": "^4.3.1"
+  }
+}
